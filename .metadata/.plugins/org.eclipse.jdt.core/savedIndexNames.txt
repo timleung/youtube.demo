@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+C:\Users\timleung\timprojects\gitproject\.metadata\.plugins\org.eclipse.jdt.core
-3667503360.index
-437200804.index
